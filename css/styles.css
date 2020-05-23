@@ -63,7 +63,6 @@ h6 {
 }
 .card {
   border: 0 !important;
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
   margin-top: 1em;
   background-color:black;
   color:white;
@@ -98,7 +97,9 @@ h6 {
   padding-bottom:1rem;
   
 }
-
+.containerbackground {
+  background-color: inherit;
+}
 .padding{
   padding-left:1rem;
 }
@@ -110,6 +111,10 @@ h6 {
 .margin-text {
   margin: 10rem;
   margin-top:15rem;
+}
+.margin-text1 {
+  margin: 2rem;
+  margin-top:2rem;
 }
 
 .slider-container {
