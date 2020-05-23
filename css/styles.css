@@ -90,6 +90,7 @@ h6 {
 
 .position {
   background-size:bottom;
+  background-position: center;
 }
 
 .product-stripe, .slider {
